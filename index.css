@@ -4,11 +4,11 @@ html, body {
 }
 
 #ju{
-background-color: blue; 
+    color: blue; 
 }
-.h1{
+h1{
     font-size: 2em ;
     text-align : center ;
-  font-family : Bradley hand, cursive;
+    font-family : Bradley hand, cursive;
     color : red;
 }

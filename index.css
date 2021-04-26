@@ -4,11 +4,11 @@ html, body {
 }
 
 .p{
-color: blue 
+background-color: blue; 
 }
 .h1{
     font-size: 2em ;
     text-align : center ;
   font-family : Bradley hand, cursive;
-    color : red
+    color : red;
 }
